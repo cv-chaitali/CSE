@@ -1,1 +1,1 @@
-# CSE
+Homework for undergrad students
